@@ -1,0 +1,9 @@
+setup.py
+sforce/__init__.py
+sforce/base.py
+sforce/enterprise.py
+sforce/partner.py
+sforce.egg-info/PKG-INFO
+sforce.egg-info/SOURCES.txt
+sforce.egg-info/dependency_links.txt
+sforce.egg-info/top_level.txt
